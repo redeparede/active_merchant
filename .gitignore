@@ -1,4 +1,6 @@
 .DS_Store
+.rvmrc
 *.orig
 *.swp
 *.swo
+pkg
