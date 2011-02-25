@@ -1,0 +1,14 @@
+en:
+  active_merchant:
+    billing:
+      check:
+        errors:
+          must_be_checking_or_savings: "must be checking or savings"
+          must_be_personal_or_business: "must be personal or business"
+
+    errors:
+      blank: "cannot be blank"
+      empty: "cannot be empty"
+      invalid: "is invalid"
+      invalid_for_type: "is invalid"
+      required: "is required"
